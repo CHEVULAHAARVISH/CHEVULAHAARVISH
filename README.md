@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Haarvish</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chevulahaarvish&label=Profile%20views&color=0e75b6&style=flat" alt="chevulahaarvish" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chevulahaarvish" alt="chevulahaarvish" /></a> </p>
+
 - 🔭 I’m currently working on [TechTangoo](https://github.com/TechTangoo/Tg)
 
 - 🌱 I’m currently learning **Next js 14,Blockchain,Neural Networks**
