@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Haarvish
+# 👋 Hello, I'm Haarvish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### 🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
@@ -20,45 +20,63 @@
 
 ---
 
-### 💼 About Me
+### 💫 About Me
 
-I'm a passionate Software Engineer who thrives on turning complex problems into elegant solutions. With expertise in full-stack development and cloud technologies, I build scalable applications that make a difference. I believe in clean code, continuous learning, and collaborative development.
+<p>
+  🔭 A passionate Software Engineer who transforms complex challenges into elegant solutions<br>
+  🌱 Currently exploring advanced cloud architectures and microservices<br>
+  👯 Looking to collaborate on innovative open-source projects<br>
+  💬 Ask me about Cloud Computing, Full-Stack Development, and System Design
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=0e76a8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+and+Problem+Solver;Always+Learning+and+Building+Cool+Stuff!" alt="Animated Welcome Text" />
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technology Stack
 
-#### Cloud Platforms & DevOps
+<details open>
+<summary>Cloud & DevOps</summary>
+<br>
+  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+</details>
 
-#### Backend & Databases
+<details open>
+<summary>Backend & Databases</summary>
+<br>
+  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</details>
 
-#### Development Tools
+<details open>
+<summary>Tools & Technologies</summary>
+<br>
+  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🎯 Core Competencies
-
- 🔹 Architecting scalable cloud solutions
- 🔹 Developing robust backend systems
- 🔹 Database design and optimization
- 🔹 API development and integration
- 🔹 Team collaboration and leadership
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</details>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chevulahaarvish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevulahaarvish&theme=tokyonight&hide_border=true" width="400">
+<p align="center">
+  <a href="https://github.com/chevulahaarvish">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chevulahaarvish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevulahaarvish&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevulahaarvish&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEVULAHAARVISH&theme=react-dark&hide_border=true" width="100%">
@@ -67,20 +85,18 @@ I'm a passionate Software Engineer who thrives on turning complex problems into 
 
 ### 🏆 GitHub Profile Trophy
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=chevulahaarvish&theme=darkhub&no-frame=true&row=1&column=7" width="100%">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chevulahaarvish&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy"/>
+  </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 💻 Tech Stack Icons
 
-![Snake animation](https://github.com/chevulahaarvish/chevulahaarvish/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgresql,python,nodejs,github,git,html,css,js&theme=dark" alt="Tech Stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgresql,python,nodejs,github,git,html,css,js&theme=dark" alt="Tech Stack"/>
 </p>
 
 </div>
