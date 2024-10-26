@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haarvish</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h1 align="center">Hello, I'm Haarvish</h1>
+<h3 align="center">Software Engineer with Expertise in Full-Stack Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chevulahaarvish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -19,8 +19,10 @@
 
 ---
 
-<h3 align="center">💡 Fun Fact:</h3>
-<p align="center">☀️ It takes 8 minutes for sunlight to reach Earth!</p>
+<h3 align="center">💼 Professional Summary:</h3>
+<p align="center">
+  I am a dedicated Software Engineer with comprehensive experience in software development. I excel in both independent and collaborative environments, offering solid expertise in both front-end and back-end development. My technical skill set enables me to build complex and scalable solutions.
+</p>
 
 ---
 
@@ -31,25 +33,17 @@
   <img src="https://img.shields.io/badge/Programming-Python%20|%20Node.js-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python and Node.js" />
 </p>
 
-<h3 align="center">🌟 About Me:</h3>
-<ul>
-  <li>💻 Complete experience in software development</li>
-  <li>👨‍💻 Can work independently and as a great team player</li>
-  <li>⚙️ Solid knowledge in both front-end and back-end development</li>
-  <li>🚀 Capable of developing and building complex solutions</li>
-</ul>
-
 ---
 
-<h3 align="center">🔗 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/chevula-haarvish" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/techtangoo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<h3 align="center">🌟 Core Competencies:</h3>
+<ul>
+  <li>✔️ Full-stack software development</li>
+  <li>✔️ Cloud integration with AWS, GCP, and Azure</li>
+  <li>✔️ Database management with PostgreSQL</li>
+  <li>✔️ Backend development using Python and Node.js</li>
+  <li>✔️ Proven ability to work both independently and within team environments</li>
+  <li>✔️ Skilled in developing robust and scalable solutions</li>
+</ul>
 
 ---
 
@@ -70,6 +64,6 @@
 </p>
 
 <p align="center">
-  <!-- Dev Icons -->
+  <!-- Tech Icons -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgresql,python,nodejs,github,git,html,css,js&theme=dark" alt="Tech Stack Icons" />
 </p>
