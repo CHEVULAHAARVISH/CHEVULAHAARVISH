@@ -2,101 +2,71 @@
   
 # 👋 Hello, I'm Haarvish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🚀 Software Engineer | Full-Stack Developer | Cloud Enthusiast
+### 🚀 Cloud-Native Engineer | AI Enthusiast | SRE Practitioner
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chevulahaarvish&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/chevulahaarvish)
-  
-<p>
-  <a href="https://www.linkedin.com/in/chevula-haarvish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/techtangoo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:haarvish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:haarvish@gmail.com)
 
 ---
 
-### 💫 About Me
+### 🔥 Current Focus
 
-<p>
-  🔭 A passionate Software Engineer who transforms complex challenges into elegant solutions<br>
-  🌱 Currently exploring advanced cloud architectures and microservices<br>
-  👯 Looking to collaborate on innovative open-source projects<br>
-  💬 Ask me about Cloud Computing, Full-Stack Development, and System Design
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=0e76a8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+and+Problem+Solver;Always+Learning+and+Building+Cool+Stuff!" alt="Animated Welcome Text" />
-</p>
+- **Building AI Agents** - Developing autonomous systems for intelligent workflows
+- **Learning Golang** - Expanding my systems programming toolkit
+- **Meetup Project** - Creating new virtual ways for people to connect
+- **Site Reliability Engineering** - Implementing observability at scale
 
 ---
 
-### 🛠️ Technology Stack
+### 🛠️ Core Expertise
 
-<details open>
-<summary>Cloud & DevOps</summary>
-<br>
-  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-</details>
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
-<details open>
-<summary>Backend & Databases</summary>
-<br>
-  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</details>
+#### Observability & APM
+![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?logo=newrelic&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+![AppDynamics](https://img.shields.io/badge/-AppDynamics-5D34C0?logo=cisco&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 
-<details open>
-<summary>Tools & Technologies</summary>
-<br>
-  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</details>
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Key Achievements
 
-<p align="center">
-  <a href="https://github.com/chevulahaarvish">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chevulahaarvish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevulahaarvish&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+- Built custom integrations with all major APM tools (New Relic, Dynatrace, AppDynamics, Datadog)
+- Implemented SRE practices reducing critical incidents by 40%
+- Developed AI-powered anomaly detection for production systems
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevulahaarvish&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+### 📈 Recent Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEVULAHAARVISH&theme=react-dark&hide_border=true" width="100%">
+1. 🚀 Architecting AI agent framework with observability integration
+2. 📚 Mastering Go for high-performance systems development  
+3. 🌐 Developing next-gen virtual Meetup platform infrastructure
+4. 🔍 Implementing distributed tracing at scale
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### 📫 Let's Collaborate
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chevulahaarvish&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy"/>
-  </a>
-</p>
+I'm always open to discussions about:
 
----
+- Cloud-native observability patterns
+- AI/ML for system reliability
+- APM tool integrations
+- Scaling distributed systems
 
-### 💻 Tech Stack Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgresql,python,nodejs,github,git,html,css,js&theme=dark" alt="Tech Stack"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:haarvish@gmail.com)
 
 </div>
