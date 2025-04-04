@@ -2,63 +2,52 @@
   
 # 👋 Hello, I'm Haarvish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🚀 Cloud & DevOps Engineer | AI Enthusiast | Continuous Learner
+### 🛠️ Cloud Engineer | AI Tinkerer | "Get-It-Done" Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:haarvish@gmail.com)
-
----
-
-### 🌱 My Journey (1.5 Years and Growing)
-
-Passionate cloud engineer with hands-on experience in:
-- Cloud infrastructure (AWS/GCP)
-- Monitoring and observability tools
-- Building reliable systems
-- Automating workflows
-
-Currently deepening my knowledge in AI systems and distributed architectures.
+[![LinkedIn](https://img.shields.io/badge/-Say_Hi!-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
+[![Email](https://img.shields.io/badge/-Reach_Out-D14836?style=flat&logo=gmail)](mailto:haarvish@gmail.com)
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🧑‍💻 My Developer DNA
 
-#### Comfortable With:
+**2 years of making things work (sometimes the hard way)**  
+I thrive in the messy middle between "this should work" and "why isn't this working?"  
+_Translation:_ I can figure most things out, but might need to check docs/StackOverflow 😅
+
+---
+
+### 🧰 My Toolbelt
+
+#### **Confident With** (Can debug at 2AM):
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-#### Exploring & Learning:
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
-
-#### Monitoring Experience:
-![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?logo=newrelic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
 
----
-
-### 💡 Current Projects & Learning
-
-- **Meetup Platform**: Building virtual gathering infrastructure
-- **AI Agents**: Experimenting with autonomous workflows
-- **Golang**: Learning systems programming fundamentals
-- **SRE Practices**: Implementing reliability patterns
+#### **Learning Now** (Google-fu active):
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
+### 🔥 Current Projects
 
-I'm always happy to:
-- Discuss cloud technologies
-- Share learning resources
-- Collaborate on interesting projects
-- Get advice from experienced developers
+- **Meetup Platform**: Building → Breaking → Fixing → Repeat  
+- **AI Experiments**: Making LLMs do weird things  
+- **SRE Learnings**: Turning production fires into learning opportunities  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:haarvish@gmail.com)
+---
+
+### 🤝 Let's Connect!
+
+Looking for:
+- Mentors who've been through the early-career grind
+- Peers to learn with
+- Interesting problems to solve (I'll be honest about what I don't know)
+
+[![LinkedIn](https://img.shields.io/badge/-Coffee_Chat-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chevula-haarvish)
+[![Email](https://img.shields.io/badge/-Brainstorm-D14836?style=for-the-badge&logo=gmail)](mailto:haarvish@gmail.com)
 
 </div>
